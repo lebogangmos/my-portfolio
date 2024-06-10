@@ -6,7 +6,7 @@ This repository contains the source code for the Prosperity Bank portfolio websi
 - [Introduction](#introduction)
 - [Features](#features)
 - [Setup](#setup)
-- [Usage](#usage))
+- [Usage](#usage)
 - [Contact](#contact)
 
 ## Introduction
